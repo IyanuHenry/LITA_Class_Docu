@@ -1,20 +1,22 @@
 # LITA_Class_Documentation
-My journey into Data Analysis with the Incubator Hub
+Journey into Data Analysis 
       
-### 
-      
-### Overview
-Getting a new skills is to stay updated in the relavant field. Learning data analysis is a great tool for any researcher
+### Introduction
+I embarked on the journey to learn data analysis with the goal of gaining new skills that would enhance my expertise as a researcher. In today’s data-driven world, the ability to analyze and interpret data is crucial in making informed decisions, solving problems, and bringing innovative insights to my field. By expanding my skill set, I aim to improve my ability to conduct research, analyze trends, and contribute more effectively to projects that rely on accurate data interpretation.
 
 ### Outline
-- [Overview](#overview)
-- [Event](#event)
+- [Introduction](#introduction)
+- [Key Milestone](#key-milestone)
 - [Tools used](#tools-used)
 - [Data Cleaning and preparation](#data-cleaning-and-preparation)
 
+### Key Milestone
+My first key milestone was the lecture on Microsoft Excel and an introduction to data analysis by Mr. B. During this phase, I learned key Excel functions such as VLOOKUP, HLOOKUP, IF Statements, Pivot Tables, and Data Validation, which are essential for organizing, analyzing, and summarizing large datasets efficiently.
 
-### Event
-Incubator Hub
+Following this, Mr. C introduced me to SQL, where I learned how to write queries and mastered different types of SQL commands such as SELECT, JOIN, WHERE, GROUP BY, and ORDER BY. These functions are crucial for extracting and manipulating data from databases. I also became familiar with subqueries and aggregate functions like COUNT, SUM, and AVG, which help in performing more complex data analyses.
+
+Additionally, I began creating a professional portfolio on GitHub, where I document my projects, and learning journey. This platform serves as a way to showcase my skills and progress as I advance in data analysis.
+
       
 ### Tools used
 - Microsoft Excel [Download Here](https://www.microsoft.com)
