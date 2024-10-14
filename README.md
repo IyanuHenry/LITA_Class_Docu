@@ -19,10 +19,10 @@ Incubator Hub
 ### Tools used
 - Microsoft Excel [Download Here](https://www.microsoft.com)
    1. For Analysis
-   2. For visualization
-          
+   2. For visualization        
 - SQL- Structured Query Language for Querying of data
-      - Github for portfolio building 
+- Github for portfolio building
+- Power Bi
       
 ### Data Cleaning and preparation
 The first phase in data cleaning
