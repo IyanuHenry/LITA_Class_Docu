@@ -7,7 +7,11 @@ My journey into Data Analysis with the Incubator Hub
 Getting a new skills is to stay updated in the relavant field. Learning data analysis is a great tool for any researcher
 
 ### Outline
-[Overview](#overview)
+- [Overview](#overview)
+- [Event](#event)
+- [Tools used](#tools-used)
+- [Data Cleaning and preparation](#data-cleaning-and-preparation)
+
 
 ### Event
 Incubator Hub
