@@ -11,9 +11,9 @@ I embarked on the journey to learn data analysis with the goal of gaining new sk
 - [Data Cleaning and preparation](#data-cleaning-and-preparation)
 
 ### Key Milestone
-My first key milestone was the lecture on Microsoft Excel and an introduction to data analysis by Mr. B. During this phase, I learned key Excel functions such as VLOOKUP, HLOOKUP, IF Statements, Pivot Tables, and Data Validation, which are essential for organizing, analyzing, and summarizing large datasets efficiently.
+My first key milestone was the lecture on Microsoft Excel and an introduction to data analysis. During this phase, I learned key Excel functions such as VLOOKUP, HLOOKUP, IF Statements, Pivot Tables, and Data Validation, which are essential for organizing, analyzing, and summarizing large datasets efficiently.
 
-Following this, Mr. C introduced me to SQL, where I learned how to write queries and mastered different types of SQL commands such as SELECT, JOIN, WHERE, GROUP BY, and ORDER BY. These functions are crucial for extracting and manipulating data from databases. I also became familiar with subqueries and aggregate functions like COUNT, SUM, and AVG, which help in performing more complex data analyses.
+Following this, I was introduced  to SQL, where I learned how to write queries and mastered different types of SQL commands such as SELECT, JOIN, WHERE, GROUP BY, and ORDER BY. These functions are crucial for extracting and manipulating data from databases. I also became familiar with subqueries and aggregate functions like COUNT, SUM, and AVG, which help in performing more complex data analyses.
 
 Additionally, I began creating a professional portfolio on GitHub, where I document my projects, and learning journey. This platform serves as a way to showcase my skills and progress as I advance in data analysis.
 
@@ -33,3 +33,4 @@ The first phase in data cleaning
 ```SQL
 SELECT * FROM TABLE 1
 WHERE CONDITION = TRUE
+
